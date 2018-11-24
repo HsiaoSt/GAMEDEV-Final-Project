@@ -1,0 +1,8 @@
+
+Assets/GAMEDEV Reusables/*
+Library/*
+Packages/*
+*.meta
+.vs/*
+Temp/*
+obj/*
