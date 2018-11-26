@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8B4F311D-3CE2-CEFB-B9F4-F8C56A9DBFB9}</ProjectGuid>
+    <ProjectGuid>{B32A6A52-D948-2ECD-14D5-918BB9C909E2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
@@ -181,16 +181,16 @@
      <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAdd.shader" />
      <None Include="Assets\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularDisplacement.shader" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>C:/Users/Stephen/Documents/DLSU/GAMEDEV/Unity Files/FinalProject/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/patri/Documents/GitHub/GAMEDEV-Final-Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/Stephen/Documents/DLSU/GAMEDEV/Unity Files/FinalProject/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/patri/Documents/GitHub/GAMEDEV-Final-Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/Stephen/Documents/DLSU/GAMEDEV/Unity Files/FinalProject/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/patri/Documents/GitHub/GAMEDEV-Final-Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/Stephen/Documents/DLSU/GAMEDEV/Unity Files/FinalProject/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/patri/Documents/GitHub/GAMEDEV-Final-Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -391,37 +391,37 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Analytics">
- <HintPath>C:/Users/Stephen/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
+ <HintPath>C:/Users/patri/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.StandardEvents">
- <HintPath>C:/Users/Stephen/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/patri/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="DOTween43">
- <HintPath>C:/Users/Stephen/Documents/DLSU/GAMEDEV/Unity Files/FinalProject/Assets/DOTween/DOTween43.dll</HintPath>
+ <HintPath>C:/Users/patri/Documents/GitHub/GAMEDEV-Final-Project/Assets/DOTween/DOTween43.dll</HintPath>
  </Reference>
  <Reference Include="Poly2Tri">
- <HintPath>C:/Users/Stephen/Documents/DLSU/GAMEDEV/Unity Files/FinalProject/Assets/ProCore/ProBuilder/Classes/ClassesLib/Poly2Tri.dll</HintPath>
+ <HintPath>C:/Users/patri/Documents/GitHub/GAMEDEV-Final-Project/Assets/ProCore/ProBuilder/Classes/ClassesLib/Poly2Tri.dll</HintPath>
  </Reference>
  <Reference Include="DOTween46">
- <HintPath>C:/Users/Stephen/Documents/DLSU/GAMEDEV/Unity Files/FinalProject/Assets/DOTween/DOTween46.dll</HintPath>
+ <HintPath>C:/Users/patri/Documents/GitHub/GAMEDEV-Final-Project/Assets/DOTween/DOTween46.dll</HintPath>
  </Reference>
  <Reference Include="KdTreeLib">
- <HintPath>C:/Users/Stephen/Documents/DLSU/GAMEDEV/Unity Files/FinalProject/Assets/ProCore/ProBuilder/Classes/ClassesLib/KdTreeLib.dll</HintPath>
+ <HintPath>C:/Users/patri/Documents/GitHub/GAMEDEV-Final-Project/Assets/ProCore/ProBuilder/Classes/ClassesLib/KdTreeLib.dll</HintPath>
  </Reference>
  <Reference Include="pb_Stl">
- <HintPath>C:/Users/Stephen/Documents/DLSU/GAMEDEV/Unity Files/FinalProject/Assets/ProCore/ProBuilder/Classes/ClassesLib/pb_Stl.dll</HintPath>
+ <HintPath>C:/Users/patri/Documents/GitHub/GAMEDEV-Final-Project/Assets/ProCore/ProBuilder/Classes/ClassesLib/pb_Stl.dll</HintPath>
  </Reference>
  <Reference Include="ProBuilderCore-Unity5">
- <HintPath>C:/Users/Stephen/Documents/DLSU/GAMEDEV/Unity Files/FinalProject/Assets/ProCore/ProBuilder/Classes/ProBuilderCore-Unity5.dll</HintPath>
+ <HintPath>C:/Users/patri/Documents/GitHub/GAMEDEV-Final-Project/Assets/ProCore/ProBuilder/Classes/ProBuilderCore-Unity5.dll</HintPath>
  </Reference>
  <Reference Include="ProBuilderMeshOps-Unity5">
- <HintPath>C:/Users/Stephen/Documents/DLSU/GAMEDEV/Unity Files/FinalProject/Assets/ProCore/ProBuilder/Classes/ProBuilderMeshOps-Unity5.dll</HintPath>
+ <HintPath>C:/Users/patri/Documents/GitHub/GAMEDEV-Final-Project/Assets/ProCore/ProBuilder/Classes/ProBuilderMeshOps-Unity5.dll</HintPath>
  </Reference>
  <Reference Include="DOTween">
- <HintPath>C:/Users/Stephen/Documents/DLSU/GAMEDEV/Unity Files/FinalProject/Assets/DOTween/DOTween.dll</HintPath>
+ <HintPath>C:/Users/patri/Documents/GitHub/GAMEDEV-Final-Project/Assets/DOTween/DOTween.dll</HintPath>
  </Reference>
  <Reference Include="DOTween50">
- <HintPath>C:/Users/Stephen/Documents/DLSU/GAMEDEV/Unity Files/FinalProject/Assets/DOTween/DOTween50.dll</HintPath>
+ <HintPath>C:/Users/patri/Documents/GitHub/GAMEDEV-Final-Project/Assets/DOTween/DOTween50.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>
